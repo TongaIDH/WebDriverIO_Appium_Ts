@@ -2,4 +2,7 @@
 node_modules/
 
 # devices config
-**/devices.js
+**/devices.ts
+
+# logs
+logs/
